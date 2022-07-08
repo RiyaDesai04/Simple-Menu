@@ -1,1 +1,1 @@
-# Simple-Menu of Operations in Python
+# Simple-Menu of Operations on lists in Python
